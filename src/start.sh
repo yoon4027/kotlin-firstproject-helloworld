@@ -1,0 +1,2 @@
+git --version
+java --version
